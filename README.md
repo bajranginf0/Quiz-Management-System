@@ -106,6 +106,17 @@ Quiz Service: http://localhost:9091
 
 Question Service: http://localhost:9092
 
+
+## Postman Collection
+To test the APIs, import the Postman collection:
+
+1. Open Postman.
+2. Click **Import** and select the JSON file from `postman-apis/`.
+3. Use the saved environment for API testing.
+
+Collection: [Download Here](postman-apis/quiz-management.postman_collection.json)
+
+
 Future Enhancements
 
 Add Frontend UI using Angular.
