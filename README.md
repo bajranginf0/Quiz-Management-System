@@ -114,7 +114,9 @@ To test the APIs, import the Postman collection:
 2. Click **Import** and select the JSON file from `postman-apis/`.
 3. Use the saved environment for API testing.
 
-Collection: [Download Here](postman-apis/quiz-management.postman_collection.json)
+Collection: [Download Here](
+
+https://github.com/bajranginf0/Quiz-Management-System/tree/master/Quiz Management System.postman_collection.json)
 
 
 Future Enhancements
